@@ -1,0 +1,11 @@
+
+Zsquid:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(¿©á‘úÿÿÿÿ
+©%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ÎÑƒ¥ÿÿÿÿÿ8êå¹ßí.
+_squid:S4488%"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ñ„Éÿ
+Fsquid:S1068"*Remove this unused "logger" private field.(Úêòüüÿÿÿÿ
+_squid:S44889"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ÿì½Ï
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãáÕçıÿÿÿÿ
+asquid:S4488-"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ãâº¡
+^squid:S4684."@Replace this persistent entity with a simple POJO or DTO object.(£¬ì8êå¹ßí.
+_squid:S4488@"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"( ˜Ó 
